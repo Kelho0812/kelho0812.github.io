@@ -42,12 +42,12 @@ github: mygithub
 email: myemail@gmail.com
 
 authors:
-  johndoe:
+  jorgecosta:
     name: Jorge Costa
     bio: Just a guy
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
+    twitter: jorgecosta
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal

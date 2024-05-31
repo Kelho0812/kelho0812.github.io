@@ -3,13 +3,13 @@ title: "Markdown Extra Components"
 layout: post
 date: 2016-02-24 22:48
 image: /assets/images/markdown.jpg
-headerImage: false
+headerImage: true
 tag:
 - markdown
 - components
 - extra
 category: blog
-author: jamesfoster
+author: jorgecosta
 description: Markdown summary with different options
 ---
 
