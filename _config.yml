@@ -26,7 +26,7 @@ url: https://kelho0812.github.io/kelho0812.io/
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'G-MLV5MSVQSJ'
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
